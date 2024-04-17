@@ -55,6 +55,10 @@ h2 {
   text-align: justify;
   font-size: 1rem;
 }
+h3 {
+  font-family: "Roboto Condensed", sans-serif, monospace;
+  letter-spacing: 1px;
+}
 footer {
   font-size: 18px;
   color: #fff;
